@@ -3,7 +3,7 @@
 
 
 // --------------------//
-//------Header files--//
+//     Header files    //
 //--------------------//
 
 #include <iostream>
@@ -21,7 +21,7 @@
 using namespace std;
 
 //-------------------------//
-//----Global variable------//
+//   Global variable       //
 //--------------------------//
 
 MYSQL * conn;
@@ -41,7 +41,7 @@ typedef struct   // or we can declare as struct class:  strurct data{  (/*-----*
 
 
 //------------------------//
-//------Classes made-------//
+//       Classes made     //
 //-------------------------//
 
 class books
@@ -59,9 +59,9 @@ class books
         void display();
 };
 
-// +----------------------------------+
+// ----------------------------------
 //    Member Functions of Class Book	  	  
-// +----------------------------------+
+// ----------------------------------
 
 void books::add()
 {
@@ -217,9 +217,9 @@ class suppliers
         void search_id();
 };
 
-// +----------------------------------+
+// ----------------------------------
 //    Member Functions of Supplier class	  	  
-// +----------------------------------+
+// ----------------------------------
 void suppliers::add_sup()
 {
         cout << "Enter the Supplier Name : ";
@@ -301,9 +301,9 @@ class purchases
         void mark_reciv();
 };
 
-// +----------------------------------+
+// ----------------------------------
 //    Member Functions of Purchase class	  	  
-// +----------------------------------+
+// ----------------------------------
 
 void purchases::new_ord()
 {
@@ -1054,6 +1054,7 @@ void pass()
 
 
 //----------------main.cpp-----------//
+
 int main()
 {
     pass();
