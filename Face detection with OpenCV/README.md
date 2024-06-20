@@ -1,6 +1,7 @@
 **Computer vision has taken giant strides in recent years, and one fascinating application is face detection.**
 
 - Face detection using Haar Feature-based Cascade Classifier.
+  Haar Cascade Classifier: https://github.com/opencv/opencv/tree/master/data/haarcascades
 - The OpenCV libraries on CMake cross-platform with Visual Studio Code have been used.
 - The following tasks were implemented:
    - Section 1: Initializing the Webcam.
