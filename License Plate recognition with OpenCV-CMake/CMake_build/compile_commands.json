@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/C++project/computer_project/build",
+  "command": "C:/msys64/ucrt64/bin/c++.exe   -g -o CMakeFiles/cvtest.dir/main.cpp.obj -c E:/C++project/computer_project/main.cpp",
+  "file": "E:/C++project/computer_project/main.cpp",
+  "output": "CMakeFiles/cvtest.dir/main.cpp.obj"
+}
+]
