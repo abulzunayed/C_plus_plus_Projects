@@ -7,6 +7,7 @@ Document scanner is the process of using computer vision techniques to automatic
   - Again draw new contour points on a new image.
   - Reorder contour points.
   - Warp and crop image.
+  - Finally, A4 paper size output image
   
 - Before scanning image:
 ![paper_scanner](https://github.com/abulzunayed/C_plus_plus_Projects/assets/122612945/05456762-f5d0-423a-bee6-b289eec0df2d)
