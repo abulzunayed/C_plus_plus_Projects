@@ -1,8 +1,9 @@
 
 License plate detection is the process of using computer vision techniques to automatically detect and recognize license/number plates in images or video streams.
 
-- The OpenCV libraries on Cmake cross-platform with Visual Studio Code have been used.
-- Here, Live webcam images have been used.
+- **The OpenCV libraries on CMake cross-platform with Visual Studio Code have been used**.
+- Live webcam images have been used.
+- Use Pre-trained Haar Cascade Classifier
 
 - Reference Documentation: https://dontrepeatyourself.org/post/number-plate-detection-with-opencv-and-python/
  
