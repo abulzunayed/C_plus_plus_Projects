@@ -1,4 +1,4 @@
-**Computer vision has taken giant strides in recent years, and one fascinating application is face detection.**
+**Face detection is one of the fascinating application in Computer vision. **
 
 - Face detection using Haar Feature-based Cascade Classifier.
   Haar Cascade Classifier: https://github.com/opencv/opencv/tree/master/data/haarcascades
