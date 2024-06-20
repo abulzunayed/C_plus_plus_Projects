@@ -1,6 +1,6 @@
 Document scanner is the process of using computer vision techniques to automatically scan the document.
 
-# The OpenCV libraries on CMake cross-platform with Visual Studio Code have been used.
+- **The OpenCV libraries on CMake cross-platform with Visual Studio Code have been used.**
 - The following tasks were implemented :
   - Convert original image to Gray, Blurr and Canny Images.
   - Detect the Shape/ Contour of the image.
