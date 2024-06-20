@@ -2,12 +2,13 @@ Document scanner is the process of using computer vision techniques to automatic
 
 - The OpenCV libraries on Cmake cross-platform with Visual Studio Code have been used.
 - The following tasks were implemented :
-  #Convert original image to Gray, Blurr and Canny Images.
-  #Detect the Shape/ Contour of the image.
-  #Again draw new contour points on a new image.
-  #Reorder contour points.
-  #Warp and crop image.
-Here, Live webcam images have been used.
+  - Convert original image to Gray, Blurr and Canny Images.
+  - Detect the Shape/ Contour of the image.
+  - Again draw new contour points on a new image.
+  - Reorder contour points.
+  - Warp and crop image.
+  
+- Before scanning image:
 ![paper_scanner](https://github.com/abulzunayed/C_plus_plus_Projects/assets/122612945/05456762-f5d0-423a-bee6-b289eec0df2d)
 
 - After image processing:
