@@ -5,5 +5,5 @@
 - Virtual paint board using OpenCv-CMake.
 - Image processing using OpenCv-CMake.
 - Creating Simple Phone book app and Bank Management system.
-- Whole Bookshop management system software includes all Books, sales, price, buyers, suppliers, employees, members, and so on.
+- A shop management system includes all Books, sales, price, buyers, suppliers, employees, members, and so on.
 - Student record management System software. Records are saved directly on an Excel file to decrease data Entry labor costs and improve efficiency.
