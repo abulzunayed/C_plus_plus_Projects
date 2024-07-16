@@ -7,7 +7,7 @@
 
 **Debugging:**  C/c++: g++.exe build and debug active file( Compiler tools: MSYS2-64)
 
-**What have I learned from implementing this project ??**
+- **What have I learned from implementing this project ??**
     - Webcam image/ video detection.
     - Color picker from images.
     - Convert to Grayscale, Gaussian Blurr, Canny, Image Dialation, Erode, Resize, Rescaling, crop image.
