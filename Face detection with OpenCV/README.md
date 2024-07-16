@@ -10,9 +10,9 @@
 - **Debugging:**  C/c++: g++.exe build and debug active file( Compiler tools: MSYS2-64)
 
 - **What have I learned from implementing this project ??**
-   - Section 1: Initializing the Webcam and capturing images directly.
-   - Section 2: Loading the Face Detection Model from pre-trained Haar Cascade Classifier.
-   - Section 3: Real-time Face Detection Loop.
+   - 1: Initializing capturing direct images from the Webcam.
+   - 2: Loading the Face Detection Model from the pre-trained Haar Cascade Classifier.
+   - 3: Real-time Face Detection Loop.
 
      
 ![Face_detected_image](https://github.com/abulzunayed/C_plus_plus_Projects/assets/122612945/31a636c4-3de5-4b04-9534-34ad8e4008f8)
