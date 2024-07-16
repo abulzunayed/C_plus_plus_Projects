@@ -1,7 +1,7 @@
 
 - **Purpose of the project:** Face detection directly from Webcam / local drive using Haar Feature-based Cascade Classifier.
  
-- **Further possibility of extended this project:** In this same way, we can do eye detection, Human body parts, and smile detection.
+- **Further possibility of extending this project:** In this same way, we can do eye detection, Human body parts, and smile detection.
  
 - **Prerequisites environment:** VS code editor, Visual Studio compiler 2022,  CMake build engine V_3.30.0, OpenCV library v_4.10.0 windows.
 
