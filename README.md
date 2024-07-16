@@ -1,4 +1,4 @@
-- **From the below projects, I tried to figure out how to use external libraries, create a cross-plate form, and inherit C++ functionalities.**
+- **From the below projects, I tried to figure out how to use external libraries, create a cross-plate form, and inherit C++ functionalities based on Why and How Question ?**
 
   - Document scanner using OpenCv-CMake.
   - Face recognition using OpenCv-CMake.
