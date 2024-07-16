@@ -1,0 +1,10 @@
+^E:\C++PROJECT\IMAGE_PROCESSING_OPENCV\BUILD\CMAKEFILES\046ED77741A8C65AE3E0A55BEC0BCA77\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/C++project/Image_processing_opencv -BE:/C++project/Image_processing_opencv/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/C++project/Image_processing_opencv/build/webcam_image_processing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

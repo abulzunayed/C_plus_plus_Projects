@@ -1,0 +1,9 @@
+E:/C++project/Image_processing_opencv/build/CMakeFiles/Experimental.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/Nightly.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/Continuous.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/NightlyMemoryCheck.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/webcam_image_processing.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/PACKAGE.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/RUN_TESTS.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/ALL_BUILD.dir
+E:/C++project/Image_processing_opencv/build/CMakeFiles/ZERO_CHECK.dir

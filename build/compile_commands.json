@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/C++project/Image_processing_opencv/build",
+  "command": "C:/msys64/ucrt64/bin/c++.exe   -g -o CMakeFiles/webcam_image_processing.dir/main.cpp.obj -c E:/C++project/Image_processing_opencv/main.cpp",
+  "file": "E:/C++project/Image_processing_opencv/main.cpp",
+  "output": "CMakeFiles/webcam_image_processing.dir/main.cpp.obj"
+}
+]
