@@ -13,4 +13,5 @@ Finally, the program creates a pointer and we can able to write on the virtual b
     - Create a pointer on the virtual board.
     - Draw canvas with the pointer.
 
-    ![virtual painter](https://github.com/abulzunayed/C_plus_plus_Projects/assets/122612945/544666ef-b1b3-42a7-8a2c-9ab61f18868d)
+ 
+![virtual painter](https://github.com/user-attachments/assets/4494ede4-42a1-4f32-a5cb-59efa55f13c0)
