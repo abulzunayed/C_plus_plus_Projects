@@ -4,7 +4,7 @@ First, the webcam creates a virtual open board, then the program automatically p
 Finally, the program creates a pointer and we can able to write on the virtual board of webcam.**
 
 
-The following tasks have been implemented:
+- The following tasks have been implemented.
      - Capture webcam video.
      - Find pen color from webcam-detected pen.
      - Detect and color picker.
