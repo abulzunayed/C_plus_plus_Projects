@@ -13,9 +13,9 @@
 
 
 - What have I learned from implementing this project ??
- - How do you define a bank account with a basic registration system, deposit, withdraw money, and balance check?
- - We provided public methods (deposit, withdraw, display) for account operations.
- - The switch statement in the main function handles user choices for banking operations.
+  - How do you define a bank account with a basic registration system, deposit, withdraw money, and balance check?
+  - We provided public methods (deposit, withdraw, display) for account operations.
+  - The switch statement in the main function handles user choices for banking operations.
 
 
 
