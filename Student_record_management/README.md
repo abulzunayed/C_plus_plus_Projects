@@ -1,4 +1,4 @@
-**Project name: Create a minimalist desktop app for Student Record Management System**
+Project name: **Create a minimalist desktop app for Student Record Management System**
 
 Functionalities of this App feature:
   - Records are saved directly on an Excel file to decrease data Entry labor costs and improve efficiency.
