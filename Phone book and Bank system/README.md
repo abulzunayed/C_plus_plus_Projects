@@ -1,5 +1,5 @@
-/* // ========= Project 1: Create address Phone Book===============//
-The main parts of this program of this address book app:
+ **Project 1: Create address Phone Book**
+- The main parts of this program of this address book app:
 ->We defined a Contact struct to store the name, phone, and email of each contact.
 ->The addContact function allows users to add a new contact to the contact book.
 ->The displayContacts function lists all contacts in the contact book.
